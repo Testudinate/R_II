@@ -1,5 +1,7 @@
 # R_II
 
+http://aakinshin.net/ru/blog/r/functions/
+
 Analysis data
 
 1. Общий глоссарий для этого урока:
